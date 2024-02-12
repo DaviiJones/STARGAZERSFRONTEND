@@ -1,0 +1,4 @@
+.mission-cards {
+    display: flex;
+    justify-content: space-evenly; /* Optional: Adjust this according to your layout preference */
+  }
